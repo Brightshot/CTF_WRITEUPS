@@ -14,6 +14,7 @@ Some resources are free but complete learning pathways and some challenges requi
 
 ## [HACK THE BOX](https://www.hackthebox.com/)
 HTB similar to THM is platform for learning cyber-security,unlike THM is services are separated into different sites (but still use the same login)
+
 [Academy](https://academy.hackthebox.com/) For learning cyber-security with structured pathways  
 [Labs & Challenges](https://app.hackthebox.com) for practising studied material
 [CTFs](https://ctf.hackthebox.com/) for hacking competitions 
